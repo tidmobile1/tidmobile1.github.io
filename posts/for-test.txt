@@ -1,0 +1,11 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2014/02/12 09:07:42
+.. title: for test
+.. slug: for-test
+.. nocomments: True
+
+Write your post here.
+This is custom content.
+
